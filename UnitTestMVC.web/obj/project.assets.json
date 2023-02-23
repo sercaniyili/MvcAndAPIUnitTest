@@ -10516,11 +10516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
+      "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
       "projectName": "UnitTestMVC.web",
-      "projectPath": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
+      "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
       "packagesPath": "C:\\Users\\sercan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\obj\\",
+      "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sercan\\AppData\\Roaming\\NuGet\\NuGet.Config",

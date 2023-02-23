@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\TestUnitTestMVC.csproj": {}
+    "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\TestUnitTestMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\TestUnitTestMVC.csproj": {
+    "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\TestUnitTestMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\TestUnitTestMVC.csproj",
+        "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\TestUnitTestMVC.csproj",
         "projectName": "TestUnitTestMVC",
-        "projectPath": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\TestUnitTestMVC.csproj",
+        "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\TestUnitTestMVC.csproj",
         "packagesPath": "C:\\Users\\sercan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\obj\\",
+        "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\TestUnitTestMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj": {
-                "projectPath": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj"
+              "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj": {
+                "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj": {
+    "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
+        "projectUniqueName": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
         "projectName": "UnitTestMVC.web",
-        "projectPath": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
+        "projectPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
         "packagesPath": "C:\\Users\\sercan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\obj\\",
+        "outputPath": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sercan\\AppData\\Roaming\\NuGet\\NuGet.Config",

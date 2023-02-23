@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YqRfUdf9NFpbbnYSe/IXkc3BPPZomAzXeKzfP92DL2PXZuW4o4sThKAynAHWIIdxSLVuaHF1xGipEfPHdvJ3MQ==",
+  "dgSpecHash": "Yg0XEOqjR/VzaGT2tn0TJ4OeiKVrjE4DAcpMYR4cyEYFnFJpHA4YuNumdnsiq0X7G8n9m0mYeiUvLhVn7yKtnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sercan\\Desktop\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
+  "projectFilePath": "C:\\Users\\sercan\\Desktop\\Yazılım\\UnitTestDeneme\\UnitTestMVC.web\\UnitTestMVC.web\\UnitTestMVC.web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sercan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sercan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
